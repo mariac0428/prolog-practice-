@@ -11,5 +11,5 @@ Esta es una practica realizada 100% en prolog donde se realiza un inventario de 
 
 En esta practica usamos una base de datos con hechos pre determinada ( vehicle/5 ), se usa el filtrado para obtener subconjuntos, usamos la logica condicional para manejar diferentes resultados dependiendo de el valor total, implementamos estructuras compuestas para retornar resultados mas organizadosn y  tambien usamos las operaciones en las listas para obetner el valor total ( sum_lists/2 ).
 
-
+link explicacion de la practica: https://youtu.be/BsZIrj6oXzc
 
